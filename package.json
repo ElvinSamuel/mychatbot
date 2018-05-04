@@ -1,0 +1,29 @@
+{
+  "name": "mychatbot",
+  "version": "1.0.0",
+  "description": "Chatbot created with Microsoft Bot Builder.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvinSamuel/mychatbot.git"
+  },
+  "keywords": [
+    "Chatbot",
+    "Microsoft",
+    "Bot",
+    "Builder",
+    "Elvin"
+  ],
+  "author": "Elvin M. Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvinSamuel/mychatbot/issues"
+  },
+  "homepage": "https://github.com/ElvinSamuel/mychatbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.1"
+  }
+}
